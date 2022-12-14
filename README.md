@@ -15,11 +15,5 @@ month. I.e. participants can shift from one batch to another in different months
 
 ![Yoga Class DB Design](https://user-images.githubusercontent.com/54474853/207394687-6079d79c-b6cb-438e-b821-7b289eb1739f.png)
 
-## Website ScreenShot
 
-![yoga_class](https://user-images.githubusercontent.com/54474853/207394800-2c818cee-6279-439c-803a-cffcf1b7b3ce.png)
-
-## Demo
-
-https://user-images.githubusercontent.com/54474853/207394844-7ba4296f-c120-45dd-b834-5e3770e366c5.mov
 
