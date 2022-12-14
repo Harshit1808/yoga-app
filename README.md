@@ -1,6 +1,4 @@
-# Yoga Class Subscription App
-
-![](https://github.com/vnaazleen/yoga_class_subscription_app/blob/main/YOGA%20CLASS%20SUBSCRIPTION%20APP.png)
+# BOOK YOGA SESSION
 
 Building an admission form for the Yoga Classes which happen every month.
 Requirements for the admission form are:
